@@ -1,0 +1,36 @@
+_repo: Frederick-Law-Olmsted-b-Landscape-architect_70767
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Olmsted, Frederick Law
+    alias: Olmstead, Frederick Law
+    birthdate: 1822
+    deathdate: 1903
+    gutenberg_agent_id: '45460'
+    url: http://www.gutenberg.org/2009/agents/45460
+  editors:
+  - agent_name: Frederick Law Olmsted, Jr.
+    gutenberg_agent_id: '55913'
+    url: http://www.gutenberg.org/2009/agents/55913
+  - agent_name: Kimball, Theodora
+    gutenberg_agent_id: '55914'
+    url: http://www.gutenberg.org/2009/agents/55914
+description: ''
+gutenberg_issued: '2023-05-15'
+identifiers:
+  gutenberg: '70767'
+language: en
+pgterms:marc904: https://archive.org/details/fredericklawolms00olm/page/n7/mode/2up
+pgterms:marc905: 20221212182417olmsteadjr
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bG.P. Putnam''s Sons, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Frederick Law Olmsted : $b Landscape architect'
+url: http://www.gutenberg.org/ebooks/70767
