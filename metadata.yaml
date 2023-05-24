@@ -1,5 +1,8 @@
 _repo: Frederick-Law-Olmsted-b-Landscape-architect_70767
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70767-h/images/cover.jpg
 creator:
   author:
     agent_name: Olmsted, Frederick Law
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '55914'
     url: http://www.gutenberg.org/2009/agents/55914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70767#Frederick-Law-Olmsted-b-Landscape-architect
 gutenberg_issued: '2023-05-15'
 identifiers:
   gutenberg: '70767'
